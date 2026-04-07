@@ -27,30 +27,8 @@ I am a Computer Science student passionate about:
 I enjoy building real-world ML systems and interactive web applications.
 
 ---
+<img width="1888" height="885" alt="image" src="https://github.com/user-attachments/assets/ca547084-8c50-46cf-83a9-acdb12dc5819" />
 
-## 📌 Featured Projects
-
-### 🔹 Customer Churn Analysis
-- Built classification models to predict customer churn
-- Achieved strong AUC performance
-- Tools: Python, Pandas, Scikit-learn, XGBoost
-
-### 🔹 Credit Risk Loan Default Prediction
-- Designed ML models to assess default risk
-- Improved recall and risk detection performance
-- Tools: Logistic Regression, Random Forest, Feature Engineering
-
-### 🔹 Sales Forecasting & Demand Prediction
-- Time-series forecasting model for business demand
-- Applied regression & ensemble techniques
-- Tools: Python, ML models, Data Visualization
-
-### 🔹 AQI Prediction Model (Research Internship – NIT Durgapur)
-- Built predictive model for Air Quality Index
-- Applied feature selection and optimization techniques
-- Focused on environmental data analysis
-
----
 
 ## 💼 Experience
 
